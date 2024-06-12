@@ -16,12 +16,7 @@
 
 <br>
 <br>
-<br>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavchoudhary2005&show_icons=true&locale=en&layout=compact" alt="abhinavchoudhary2005" /></p>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
