@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavchoudhary2005&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavchoudhary2005" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavchoudhary2005" alt="abhinavchoudhary2005" /></a> </p><br>
 
 - 📫 How to reach me **cabhinav2005@gmail.com**
