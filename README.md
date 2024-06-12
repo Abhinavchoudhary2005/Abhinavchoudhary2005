@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Choudhary</h1>
-<h3 align="center">A passionate Web-developer developer from India</h3>
+<h3 align="center">A passionate Web-developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavchoudhary2005" alt="abhinavchoudhary2005" /></a> </p><br>
 
