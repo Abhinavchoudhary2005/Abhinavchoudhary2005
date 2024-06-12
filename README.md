@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Choudhary</h1>
 <h3 align="center">A passionate Web-developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavchoudhary2005" alt="abhinavchoudhary2005" /></a> </p><br>
-
 - 📫 How to reach me **cabhinav2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,5 +26,4 @@
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavchoudhary2005&show_icons=true&locale=en" alt="abhinavchoudhary2005" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavchoudhary2005&" alt="abhinavchoudhary2005" /></p>
