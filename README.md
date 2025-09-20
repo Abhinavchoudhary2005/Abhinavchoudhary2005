@@ -14,9 +14,9 @@
 ---
 
 ## 🌟 Featured Projects
-- 🛒 [**Grocery App**](https://grocery-41makxuwp-abhinavchoudhary2005s-projects.vercel.app/) → AI-powered OCR & AI assistant, e-commerce features.  
-- 💬 [**Yapper**](https://yapper-delta.vercel.app/) → Real-time chatting app with modern UI.  
-- ⚡ [**SiteForge**](https://github.com/Abhinavchoudhary2005/Vibe) → AI web app that generates websites instantly using Next.js & Inngest.  
+- ⚡ [**SiteForge**](https://site-forge-gamma.vercel.app) → AI web app that generates websites instantly using Next.js & Inngest.  
+- 🛒 [**Grocery App**](https://grocery-xi-taupe.vercel.app) → AI-powered OCR & AI assistant, e-commerce features.  
+- 💬 [**Yapper**](https://yapper-delta.vercel.app) → Real-time chatting app with modern UI.  
 
 ---
 
@@ -32,7 +32,7 @@
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhinavchoudhary2005)  
 - 🐦 [Twitter](https://twitter.com/csabhinav)  
-- 🌐 [Portfolio](https://portfolio-abhinav-1.netlify.app/)
+- 🌐 [Portfolio](https://portfolio-2-abhinav.vercel.app)
 
 ---
 ⭐️ From [AbhinavChoudhary](https://github.com/Abhinavchoudhary2005)
